@@ -1,4 +1,4 @@
-# Part1 GAN
+# Part0 Basic Concept
 
 # Part1 GAN：Generator Architecture(Unet)
 
@@ -8,7 +8,7 @@
  
  
  
-# Part1 GAN：Discriminator(PatchGAN)
+# Part2 GAN：Discriminator(PatchGAN)
 
 
 Input
@@ -27,5 +27,8 @@ Every 30x30 patch in the output of PatchGAN classify a 70x70 portion of the inpu
 
 
 
-# Part2
 # Part3
+# Part3 Training Process
+URL 
+
+https://github.com/XuchenSun/GAN_with_U-net_generator/blob/main/updates.ipynb
