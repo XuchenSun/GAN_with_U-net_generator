@@ -4,6 +4,8 @@
 
 0.2 CNN
 
+0.3 GAN
+
 
 
 # Part1 GAN：Generator Architecture(Unet)
